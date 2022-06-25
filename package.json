@@ -1,0 +1,12 @@
+{
+  "name": "VideoResolutionsRender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "cli-progress": "^3.11.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "path": "^0.12.7"
+  }
+}
